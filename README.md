@@ -7,7 +7,7 @@ Senior Software Engenier
 I've been working as a web developer for more than 14 years.
 
 * 🌍  I'm based in Valencia, Spain
-* 🖥️  See my portfolio at [My personal site](http://carlosfioriti.ar)
+* 🖥️  See my [My personal site](http://carlosfioriti.ar)
 * ✉️  You can contact me at [fioriticarlos@gamil.com](mailto:fioriticarlos@gamil.com)
 * 🚀  I'm currently working on [Wetak](http://wetak.com)
 * 🧠  I'm learning DDD. TDD and hexagonal architecture
